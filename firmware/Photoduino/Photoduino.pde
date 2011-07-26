@@ -245,7 +245,7 @@
 #define KEY_BH               4 // Button B was pressed and holded (KEY_HOLD_TIME) milisecons
 
 // Keyboard times
-#define KEY_DEBOUNCE_TIME    30 // debounce time (ms) to prevent flickering when pressing or releasing the button
+#define KEY_DEBOUNCE_TIME    40 // debounce time (ms) to prevent flickering when pressing or releasing the button
 #define KEY_HOLD_TIME       400 // holding period (ms) how long to wait for press+hold event
 
 // Characters and symbols addreses on lcd eeprom
